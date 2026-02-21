@@ -1,2 +1,20 @@
-# Mobile-sales-Dashboard-
-mobile-sales-dashboard/ │ ├── README.md ├── package.json ├── public/ │   └── index.html │ ├── src/ │   ├── App.js │   ├── index.js │   ├── components/ │   │   ├── Dashboard.js │   │   ├── SalesChart.js │   │   ├── RevenueCard.js │   │   └── TopProducts.js │   │ │   └── data/ │       └── salesData.js │ └── .gitignore
+mobile-sales-dashboard/
+│
+├── README.md
+├── package.json
+├── public/
+│   └── index.html
+│
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   ├── components/
+│   │   ├── Dashboard.js
+│   │   ├── SalesChart.js
+│   │   ├── RevenueCard.js
+│   │   └── TopProducts.js
+│   │
+│   └── data/
+│       └── salesData.js
+│
+└── .gitignore
